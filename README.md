@@ -110,8 +110,10 @@ It works by compressing the input image into features and then expanding it back
 
 ### 👤 Author
 
-Name: Jisha
+Name: Jisha Bossne SJ
+
 Course: CUDA at Scale for the Enterprise – Capstone Project
+
 GitHub: https://github.com/Jisha-ji
 
 🔁 Feel free to fork this repo or create a pull request if you'd like to contribute!
