@@ -119,8 +119,4 @@ GitHub: https://github.com/Jisha-ji
 
 ---
 
-### ✅ Final Step
-
-1. Replace your current README.md with this version.
-2. Click **Commit changes** in GitHub.
 
